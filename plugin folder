@@ -1,0 +1,7 @@
+module.exports = {
+    name: "gst",
+    command: "gst",
+    run: async (sock, msg) => {
+        // yahan tumhara code
+    }
+}
